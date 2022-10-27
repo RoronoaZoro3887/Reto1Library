@@ -6,7 +6,7 @@
 package enumPackcage;
 
 /**
- * Esta e la calse enumeracion que usaremos para determinar el tipo de accion.
+ * This is the enumeration class we will use to determine the type of action.
  * @author iker
  */
 public enum ActionType {

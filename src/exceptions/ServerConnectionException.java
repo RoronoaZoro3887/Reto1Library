@@ -6,8 +6,9 @@
 package exceptions;
 
 /**
- *
- * @author 2dam
+ * This exception is to display an error message if the server takes too long 
+ * to connect.
+ * @author iker
  */
 public class ServerConnectionException extends Exception{
 

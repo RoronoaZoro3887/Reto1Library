@@ -6,8 +6,8 @@
 package exceptions;
 
 /**
- *
- * @author 2dam
+ * This exception is to show an error if the user or email already exists.
+ * @author iker
  */
 public class SignUpEmailAndUsernameException extends Exception{
 

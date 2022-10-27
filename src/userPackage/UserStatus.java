@@ -3,17 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package exceptions;
+package userPackage;
 
 /**
- * This exception shows an error if the email exists.
+ * status enumeration class
  * @author iker
  */
-public class SignUpEmailException extends Exception{
-
-    public SignUpEmailException(String msg) {
-        super(msg);
-    }
-    
-    
+public enum UserStatus {
+    ENABLED,DISABLED
 }

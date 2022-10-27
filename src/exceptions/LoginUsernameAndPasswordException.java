@@ -6,8 +6,8 @@
 package exceptions;
 
 /**
- *
- * @author 2dam
+ * This is the exception class that checks if the user and password are correct.
+ * @author iker
  */
 public class LoginUsernameAndPasswordException extends Exception {
 

@@ -6,8 +6,8 @@
 package exceptions;
 
 /**
- *
- * @author 2dam
+ * This is the exception class for when the password is not correct.
+ * @author iker
  */
 public class LoginPasswordException extends Exception{
     

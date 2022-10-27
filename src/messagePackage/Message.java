@@ -10,14 +10,16 @@ import enumPackcage.ExceptionType;
 import userPackage.User;
 
 /**
- *
- * @author 2dam
+ * This is the message class that is in charge of storing the objects that 
+ * we are going to pass from the client to the server.
+ * @author iker
  */
 public class Message {
     
     private User usu;
     private ActionType acType;
     private ExceptionType exType;
+    
     
     public Message(User usuario,ActionType aType, ExceptionType eType){
         this.usu = usuario;

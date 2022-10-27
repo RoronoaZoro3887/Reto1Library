@@ -6,8 +6,8 @@
 package exceptions;
 
 /**
- *
- * @author 2dam
+ * This class is an exception to show an error if the user does not exist.
+ * @author iker
  */
 public class LoginUsernameException extends Exception{
     

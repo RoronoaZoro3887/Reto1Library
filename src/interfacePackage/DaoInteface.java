@@ -8,25 +8,25 @@ package interfacePackage;
 import userPackage.User;
 
 /**
- * Esta es una clase de interfaz
+ * This is an interface class
  * @author iker
  */
 public interface DaoInteface {
     
     /**
-     * Este metodo es para comprobar que un usuario exista en la base de datos y
-     * ademas nos devolvera un objeto user para mostrarlo en pantalla.
-     * @param usu
-     * @return User de la clase usuario
+     * This method is to check that a user exists in the database and it will 
+     * also return a user object to display on the screen.
+     * @param usu is a user object
+     * @return User of the user class
      */
     public User SignIn(User usu);
     /**
-     * Este metodo nos introducira un usuario en la base de datos
+     * This method will enter a user in the database.
      * @param usu 
      */
     public void SignUp(User usu);
     /**
-     * Este metodo nos saca de la sesion actual del usuario
+     * This method logs us out of the user's current session.
      */
     public void LogOut();
     

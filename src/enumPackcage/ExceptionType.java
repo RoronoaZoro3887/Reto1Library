@@ -6,7 +6,7 @@
 package enumPackcage;
 
 /**
- * Esta clase es la enumeracion que determina el tipo de excepcion.
+ * This class is the enumeration that determines the type of exception.
  * @author iker
  */
 public enum ExceptionType {

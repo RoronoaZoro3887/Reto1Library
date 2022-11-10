@@ -3,7 +3,7 @@
 
 ## Detalles
 
-- [x] Cuenta con un archivo de propiedaes que se encuentra en src -> model -> PropertiesFile.properties (aqui se define el puerto y la IP a conectarse)
+- [x] No cuenta con archivo de propiedades
 
 ## Projectos donde se usa esta libreria
 

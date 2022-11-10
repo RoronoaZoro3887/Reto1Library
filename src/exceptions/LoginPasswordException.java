@@ -3,4 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package enumPackcage;
+package exceptions;
+
+/**
+ *
+ * @author 2dam
+ */
+public class LoginPasswordException extends Exception{
+    
+    public LoginPasswordException(String msg){
+        super(msg);
+    }
+}

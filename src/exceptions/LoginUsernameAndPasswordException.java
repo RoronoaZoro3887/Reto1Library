@@ -4,3 +4,16 @@
  * and open the template in the editor.
  */
 package exceptions;
+
+/**
+ *
+ * @author 2dam
+ */
+public class LoginUsernameAndPasswordException extends Exception {
+
+    public LoginUsernameAndPasswordException(String msg) {
+        super(msg);
+    }
+    
+    
+}

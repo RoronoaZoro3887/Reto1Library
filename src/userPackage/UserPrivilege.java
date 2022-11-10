@@ -4,3 +4,11 @@
  * and open the template in the editor.
  */
 package userPackage;
+
+/**
+ *  This is the Privilege Enumeration Window
+ * @author iker
+ */
+public enum UserPrivilege {
+    USER,ADMIN
+}

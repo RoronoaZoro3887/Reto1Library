@@ -3,4 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package interfacePackage;
+package userPackage;
+
+/**
+ * status enumeration class
+ * @author iker
+ */
+public enum UserStatus {
+    ENABLED,DISABLED
+}

